@@ -1,4 +1,4 @@
-# Knapsack
+# Knapsack problem
 
 A modified version of the traditional knapsack problem: https://en.wikipedia.org/wiki/Knapsack_problem
 
