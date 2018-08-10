@@ -1,7 +1,3 @@
-/* Brian Phelan n00668550
-   Data Structures (COP 3530)
-   Assignment 4 - Knapsack problem  */
-
 import java.util.Scanner;
 
 class knapsack
